@@ -1,0 +1,4 @@
+This is my skeinforge settings that work with a Prusa Mendel using a makerbot mk6 extruder. I have profiles for both 3mm filament (htsr-pru-men-mkbot) and 1.75mm filament (htsr-pru-men-1.75pla)
+
+I did calibrate the nozzle extrusion but it was pretty imprecise. So afterwards, I just tweeked the Feed Rate (mm/s) and Flow Rate Setting (float). Did this to set up a makergear extruder as well. This was using 3mm filament and a 0.5mm extruder
+
